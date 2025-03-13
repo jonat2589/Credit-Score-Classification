@@ -66,4 +66,6 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-![Captura de Tela](images/Captura de tela 2025-03-13 002356.png)
+![Imagem 1](https://raw.githubusercontent.com/jonat2589/Credit-Score-Classification/main/Captura%20de%20tela%202025-03-13%20002356.png)
+
+![Imagem 2](https://raw.githubusercontent.com/jonat2589/Credit-Score-Classification/main/Captura%20de%20tela%202025-03-13%20025042.png)
